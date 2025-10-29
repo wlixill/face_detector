@@ -1,0 +1,7 @@
+face_detector_node:
+  
+  ros__parameters:
+
+    input_topic: /camera/camera/color/image_raw
+    output_topic: /face_detector/detections
+    debug_image_topic: /face_detector/debug_image
