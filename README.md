@@ -4,7 +4,7 @@ This is a simple face recognition method based on Opnecv DNN
 
 ## Hardware
 
-realsenseD435
+RealsenseD435
 
 ## Installation
 
